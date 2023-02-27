@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @amankrs21
-- 👀 I’m interested in tech related things.
-- 🌱 I’m currently learning data science.
+- 🍁 I Love Open Source.
+- 👀 I’m interested in tech related things and experiments with Linux.
+- 🌱 I’m currently learning data science and djago is my favourite website development framework.
 - 💞️ I’m looking to collaborate on something which can help to better 
 - 📫 You can mail me at amansingh844123@gmail.com
 
