@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amankrs21 and I'm from India.
 - 🍁 I Love Open Source.
-- 👀 I’m interested in tech related things and experiments with Linux.
-- 🌱 I’m currently learning data science and djago is my favourite website development framework.
+- 👀 I'm a tech enthusiast and always ready to learn new things. Coding is my passion and I'm dedicated to it.
+- 🌱 My work of interest are dJango, Linux Environment, and Data Science.
 - 💞️ I’m looking to collaborate on something which can help to better 
 - 💬 Ask me about Linux, Django, Python, Super Computer, Server, LAN/WAN/VLAN and many more.
 - 📫 You can mail me at amansingh844123@gmail.com
