@@ -50,6 +50,7 @@ Thank you for visiting my profile. I hope we can connect and learn from each oth
 
 Let's embark on this journey of coding, learning, and growing together. 🚀
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amankrs21&" alt="amankrs21" /></p>
 
 <!---
 amankrs21/amankrs21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
