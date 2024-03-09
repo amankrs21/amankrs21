@@ -19,7 +19,7 @@
 - **Web Development:** Proficient in **MERN** (MongoDB, Express.js, React.js, Node.js) and **MEAN** (MongoDB, Express.js, Angular, Node.js) stacks.
 - **.NET Ecosystem:** Experienced with **.NET** and **Entity Framework** for robust backend solutions.
 - **DevOps:** Skilled in **DevOps** practices and tools, aiming for efficient development cycles and reliable deployments.
-- **Artificial Intelligence:** Fascinated by **General AI Technologies**, exploring their potential to revolutionize industries.
+- **Artificial Intelligence:** Fascinated by **Gen AI Technologies**, exploring their potential to revolutionize industries.
 - **Cloud Computing:** Adept in **AWS Cloud Services**, leveraging the cloud for scalable and resilient applications.
 
 ---
