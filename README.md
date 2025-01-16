@@ -50,7 +50,23 @@ Thank you for visiting my profile. I hope we can connect and learn from each oth
 
 Let's embark on this journey of coding, learning, and growing together. 🚀
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amankrs21&" alt="amankrs21" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amankrs21&" alt="amankrs21" /></p> -->
+
+
+💹 Github Stats
+
+| <a href="https://github.com/amankrs21"><img align="center" src="https://github-readme-stats.vercel.app/api?username=amankrs21&show_icons=true&theme=radical&hide_border=true" alt="Aman's github stats" /></a> | <a href="https://github.com/amankrs21"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankrs21&layout=compact&theme=radical&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
+#### Top Repositories
+
+<a href="https://securevault.pages.dev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrs21&repo=Secure-Vault&theme=radical" />
+</a>
+<a href="https://amankrs21.pages.dev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amankrs21&repo=Portfolio&theme=radical" />
+</a>
 
 <!---
 amankrs21/amankrs21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
